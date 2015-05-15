@@ -1,6 +1,5 @@
-package oop01.game;
+package oop01.encapsule;
 
-import java.util.InputMismatchException;
 
 public class NumberMatchVO {
 	private int userInput;
